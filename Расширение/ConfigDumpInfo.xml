@@ -2,9 +2,12 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
 		<Metadata name="CommonModule.Расш1_ОбщийМодуль" id="62c480a7-82a9-45a9-b858-07befb1283ce" configVersion="3db7157d0f051cf46100921e6c3b3fa27f43796f"/>
-		<Metadata name="CommonModule.Расш1_ОбщийМодуль.Module" id="62c480a7-82a9-45a9-b858-07befb1283ce.0" configVersion="56d20027fc207e0275a388109881401af6c8e508"/>
-		<Metadata name="Configuration.Расширение1" id="94033950-0397-4c07-8086-e8cf68182588" configVersion="413b7b4269f78ff66075045d3afea820abbbc61c"/>
+		<Metadata name="CommonModule.Расш1_ОбщийМодуль.Module" id="62c480a7-82a9-45a9-b858-07befb1283ce.0" configVersion="3a5717884696ad412f2ac195e9d3975fb73dba45"/>
+		<Metadata name="Configuration.Расширение1" id="94033950-0397-4c07-8086-e8cf68182588" configVersion="3e27523ad0aad4dd99ccdaf86f885e7b6752755e"/>
+		<Metadata name="DataProcessor.Расш1_КрутаяОбработка" id="ebcb1046-8958-4b56-b9e9-f0752f9c4872" configVersion="0b84e25edc2ea0043ad6f43ae6f3f085fcd4e4a4"/>
+		<Metadata name="DataProcessor.Расш1_КрутаяОбработка.Form.Форма" id="0d631cd1-fe8f-4918-a9ae-373a818b5b98" configVersion="c60e07df48ee42d3f79e8b1608fbf73da7c3e5cc"/>
+		<Metadata name="DataProcessor.Расш1_КрутаяОбработка.Form.Форма.Form" id="0d631cd1-fe8f-4918-a9ae-373a818b5b98.0" configVersion="ede5575601f687528490cd888fd3c0bd43ef0157"/>
 		<Metadata name="Language.Русский" id="79239711-4139-412a-9849-14a7416efb5c" configVersion="0024185c51cf0517d65e00119b7320499415d7e0"/>
-		<Metadata name="Role.Расш1_ОсновнаяРоль" id="ef287504-3313-42bd-befc-83b711a9c6ed" configVersion="26fa11af47a8d5a6c42a7eda51c208e6061912cf"/>
+		<Metadata name="Subsystem.Расш1_Подсистема1" id="5b459edb-5dfe-453d-822e-ed28f70a7b52" configVersion="ede68587ec10d6d6b8c08fe7631b732880812d88"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

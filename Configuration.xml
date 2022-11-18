@@ -220,6 +220,7 @@
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<DataProcessor>Обработка1</DataProcessor>
 			<DataProcessor>Обработка2</DataProcessor>
+			<DataProcessor>Обработка2500</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

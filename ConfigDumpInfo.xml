@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="CommonModule.Модуль2509" id="2683fdad-4dae-49e0-8899-09711b750da4" configVersion="f90fa83e1d8c1d498329f0db20a5eb6300000000"/>
+		<Metadata name="CommonModule.Модуль2509.Module" id="2683fdad-4dae-49e0-8899-09711b750da4.0" configVersion="c983b57a0cd0f24a84700447a9dd00f500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="935513ca-d53e-4346-abe2-9c4c9e30910e" configVersion="215900633d3f914b8a05b16ca74201a700000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="935513ca-d53e-4346-abe2-9c4c9e30910e.0" configVersion="5f6a0c05b0ff004493cca83ee51db03b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="affdd41f-77b9-4429-ab2d-633947c12744" configVersion="a4f954aa1aadd044be851944ec72a9d900000000"/>
+		<Metadata name="DataProcessor.Обработка1" id="ce7988d4-dbd4-47eb-9b1c-21dc88695c52" configVersion="570e10fe47151f46afea9cc4f374517200000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма" id="cf7dc1a0-a86f-4160-a9c6-e9d56636a674" configVersion="d7c614387e8ef446834778cb14bf94ac00000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма.Form" id="cf7dc1a0-a86f-4160-a9c6-e9d56636a674.0" configVersion="19ebfc4a6efc994791054dc878d3575a00000000"/>
+		<Metadata name="DataProcessor.Обработка2" id="131eaad3-5c50-4942-bf4c-11274be73122" configVersion="7168610afc385f4fa166d30440afce3800000000"/>
+		<Metadata name="DataProcessor.Обработка2.ObjectModule" id="131eaad3-5c50-4942-bf4c-11274be73122.0" configVersion="bc9d6b5db53e7441b5a5e8442ed43d2300000000"/>
+		<Metadata name="Language.Русский" id="b2167a68-8447-4b00-9d47-90feb32df6d0" configVersion="03a2924a6a125b4cbe82cab02f925b2500000000"/>
+		<Metadata name="Subsystem.Подсистема1" id="57c7d322-f002-4652-ae17-aaf87f1f8523" configVersion="23315a5abd9498479ea9aeaba4fcabee00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
